@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hi! I'm Hilal Prayogi from Indonesia 🇮🇩<br>I'm a passionate Digital Artist and Programmer who loves to build creative things with code and visuals.<br><br>- 🔭 Currently working as a Software Engineer<br>- 🎨 Skilled in both art and programming, combining logic and creativity<br>- 📚 Actively learning modern frameworks like Laravel, React, and Angular<br>- 🕹️ In my free time, I love drawing and playing games<br>- 🚀 Always excited to explore new tech and design ideas!<br><br>Let’s connect and create something amazing together! 😊</p>
+<p align="left">Hi! I'm Hilal Prayogi from Indonesia 🇮🇩<br>I'm a passionate Digital Artist and Programmer who loves to build creative things with code and visuals.<br><br>- 🔭 Currently working as a Software Engineer<br>- 🎨 Skilled in both art and programming, combining logic and creativity<br>- 📚 Actively learning modern frameworks like Laravel, React, and Angular<br>- 🕹️ In my free time, I love drawing and playing games<br>- 🚀 Always excited to explore new tech and design ideas!</p>
 
 ###
 
