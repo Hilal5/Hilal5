@@ -79,3 +79,9 @@
 </div>
 
 ###
+
+<p align="center">
+  <marquee direction="left" scrollamount="6">
+    🎉 Thanks for visiting my GitHub 🎉
+  </marquee>
+</p>
