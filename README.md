@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hilal5.Hilal5&"  />
@@ -12,23 +12,23 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">     
-   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=Hey+there!+Welcome!+🎉;I+love+coding+and+creating+art+✨;Check+out+my+projects+below+👇;Happy+coding!+🍵" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=Hey+there!+Welcome!+🎉;I+love+coding+and+creating+art+✨;Check+out+my+projects+below+👇" alt="Typing SVG" />
     </a>
 </p>
 
-###
+---
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+---
 
 <p align="left">Hi! I'm Hilal Prayogi from Indonesia 🇮🇩<br>I'm a passionate Digital Artist and Programmer who loves to build creative things with code and visuals.<br><br>- 🔭 Currently working as a Software Engineer<br>- 🎨 Skilled in both art and programming, combining logic and creativity<br>- 📚 Actively learning modern frameworks like Laravel, React, and Angular<br>- 🕹️ In my free time, I love drawing and playing games<br>- 🚀 Always excited to explore new tech and design ideas!</p>
 
-###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -56,17 +56,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hilal5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hilal5/Hilal5/output/pacman-contribution-graph-dark.svg">
@@ -74,7 +74,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hilal5/Hilal5/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
 <div align="center">
   <img height="200" src="img/a1xifd.gif"  />
@@ -82,7 +82,7 @@
   <img height="200" src="img/marshmellow2.gif"  />
 </div>
 
-###
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg">     
@@ -91,3 +91,54 @@
 </p>
     
 ---
+
+## 📝 Alternative Styling Options
+
+Jika Anda ingin variasi garis horizontal yang berbeda, bisa gunakan:
+
+### Option 1: Garis Tipis (Default)
+```markdown
+---
+```
+
+### Option 2: Garis dengan Underscore
+```markdown
+___
+```
+
+### Option 3: Garis dengan Asterisk
+```markdown
+***
+```
+
+### Option 4: Custom HTML Line (Lebih Fleksibel)
+```html
+<hr style="border: 2px solid #FF6B6B; border-radius: 5px;">
+```
+
+### Option 5: Decorative Divider
+```markdown
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+```
+
+### Option 6: Minimal Space Divider
+```markdown
+<br>
+```
+
+### Option 7: Emoji Divider
+```markdown
+<div align="center">
+  
+✨ • ✨ • ✨ • ✨ • ✨
+
+</div>
+```
+
+## 💡 Tips:
+- `---` adalah yang paling umum digunakan di GitHub README
+- Pastikan ada baris kosong sebelum dan sesudah `---` untuk hasil terbaik
+- Untuk styling lebih advanced, bisa gunakan HTML `<hr>` tag
+- GitHub mendukung limited HTML/CSS untuk keamanan
