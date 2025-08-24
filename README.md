@@ -87,9 +87,3 @@
 </p>
 
 ###
-
-<p align="center">
-  <img src="banner.gif" alt="Thanks for visiting my GitHub" />
-</p>
-
-###
