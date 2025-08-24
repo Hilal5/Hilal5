@@ -81,7 +81,9 @@
 ###
 
 <p align="center">
-  <marquee direction="left" scrollamount="6">
-    🎉 Thanks for visiting my GitHub 🎉
-  </marquee>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF99&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Have+a+nice+day+🚀" alt="Typing SVG" />
+  </a>
 </p>
+
+###
