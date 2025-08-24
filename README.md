@@ -82,7 +82,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF99&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Have+a+nice+day+🚀" alt="Typing SVG" />
+<!--     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF99&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Have+a+nice+day+🚀" alt="Typing SVG" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=gradient&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+👋;I'm+a+Passionate+Developer+💻;Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
   </a>
 </p>
 
