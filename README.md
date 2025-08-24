@@ -10,7 +10,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">     
+   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=Hey+there!+Welcome!+🎉;I+love+coding+and+creating+art+✨;Check+out+my+projects+below+👇;Happy+coding!+🍵" alt="Typing SVG" />
+    </a>
+</p>
 
 ###
 
@@ -81,16 +85,9 @@
 ###
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF99&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Have+a+nice+day+🚀" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=gradient&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+👋;I'm+a+Passionate+Developer+💻;Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=27&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&random=false&width=700&height=100&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DIGITAL+SPACE+⚡;EXPLORING+THE+CODE+UNIVERSE+🌌;THANKS+FOR+VISITING!+💚" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=4000&pause=1500&color=2E3440&center=true&vCenter=true&width=550&lines=Hello%2C+World!+I'm+a+Developer;Building+innovative+solutions;Open+to+collaboration;Thanks+for+stopping+by!" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=Hey+there!+Welcome!+🎉;I+love+coding+and+creating+✨;Check+out+my+projects+below+👇;Happy+coding!+🦄" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=E6E6E6&background=0D111700&center=true&vCenter=true&width=500&lines=welcome.+i+build+things.;explore+my+repositories.;thanks+for+visiting." alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg">     
+   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=Happy+coding!+🍵" alt="Typing SVG" />
+    </a>
 </p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=28&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&height=90&lines=WELCOME+TO+THE+MATRIX+🔮;CODING+IS+MY+SUPERPOWER+⚡;TRANSFORMING+IDEAS+INTO+REALITY+✨;THANKS+FOR+VISITING!+🚀" alt="Typing SVG" />
     
 ---
