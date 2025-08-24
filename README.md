@@ -89,9 +89,7 @@
 ###
 
 <p align="center">
-  <marquee direction="left" scrollamount="6">
-    🎉 Thanks for visiting my GitHub 🎉
-  </marquee>
+  <img src="banner.gif" alt="Thanks for visiting my GitHub" />
 </p>
 
 ###
