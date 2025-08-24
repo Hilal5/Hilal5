@@ -84,7 +84,8 @@
   <a href="https://git.io/typing-svg">
 <!--     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF99&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub!;Have+a+nice+day+🚀" alt="Typing SVG" /> -->
 <!--     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=gradient&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+👋;I'm+a+Passionate+Developer+💻;Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" /> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=27&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&random=false&width=700&height=100&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DIGITAL+SPACE+⚡;EXPLORING+THE+CODE+UNIVERSE+🌌;THANKS+FOR+VISITING!+💚" alt="Typing SVG" />
+<!--     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=27&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&random=false&width=700&height=100&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DIGITAL+SPACE+⚡;EXPLORING+THE+CODE+UNIVERSE+🌌;THANKS+FOR+VISITING!+💚" alt="Typing SVG" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=4000&pause=1500&color=2E3440&center=true&vCenter=true&width=550&lines=Hello%2C+World!+I'm+a+Developer;Building+innovative+solutions;Open+to+collaboration;Thanks+for+stopping+by!" alt="Typing SVG" />
   </a>
 </p>
 
