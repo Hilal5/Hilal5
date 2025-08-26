@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<!--   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> -->
+  <img height="150" src="img/mwg.gif  />
 </div>
 
 <div align="center">
@@ -8,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">     
-   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=Hey+there!+Welcome!+🎉;I+love+coding+and+creating+art+✨;Check+out+my+projects+below+👇" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=Hey+there!+Welcome!+🎉;coding+and+creating+art+✨;Check+out+my+projects+below+👇" alt="Typing SVG" />
     </a>
 </p>
 
