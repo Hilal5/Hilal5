@@ -64,7 +64,7 @@
 
 <div align="center">
   <img height="200" src="img/a1xifd.gif"  />
-  <img height="200" src="img/1000035323.gif"  />
+  <img height="200" src="img/ghost-mw.gif"  />
   <img height="200" src="img/marshmellow2.gif"  />
 </div> 
 
