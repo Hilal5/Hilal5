@@ -63,12 +63,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hilal5/Hilal5/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <img height="200" src="img/a1xifd.gif"  />
-  <img height="200" src="img/ghost-mw.gif"  />
-  <img height="200" src="img/phrolova.gif"  />
-</div> 
-
 ###
 
 <p align="center">
